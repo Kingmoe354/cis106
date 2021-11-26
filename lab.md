@@ -25,12 +25,12 @@ computer nerd only operating system because it was difficult to install and main
 * Ubuntu 4.10 (Warty Warthog), released on 20 October 2004. It was Canonical's first release of Ubuntu and it 
 looked like this:
 
-![ubuntu](Screenshot%20from%202021-11-25%2021-33-02.png)
+![ubuntu](imgs/ubuntu12.png)
 
 * Ubuntu 6.06 (Dapper Drake), released on 1 June 2006, was Canonical's fourth release and the first long-term 
 support (LTS) release. It looked like this: 
 
-![ubuntu](Screenshot%20from%202021-11-25%2021-35-36.png)
+![ubuntu](imgs/ubuntu13.png)
 
 #### Ubuntu flavors
 An ubuntu flavor is an operating system based on ubuntu that uses a different desktop environment than the default 
@@ -41,13 +41,13 @@ updates.
 Ubuntu has 7 official flavors:
 logo | flavor | download link 
 -----|--------|---------------
-![1](kubuntu.png) | Kubuntu | [https://kubuntu.org/getkubuntu/](https://kubuntu.org/getkubuntu/)
-![2](lubuntu.png) | Lubuntu | [https://lubuntu.net/downloads/](https://lubuntu.net/downloads/)
-![3](ubuntubudgie.png) | ubuntu budgie | [https://ubuntubudgie.org/downloads](https://ubuntubudgie.org/downloads)
-![4](ubuntu%20kylin.png) | ubuntu kylin | [https://www.ubuntukylin.com/downloads/show.php?id=451&lang=en](https://www.ubuntukylin.com/downloads/show.php?id=451&lang=en)
-![4](ubuntumate.png) | ubuntu mate | [https://ubuntu-mate.org/download/](https://ubuntu-mate.org/download/)
-![5](ubuntustudio.png) | ubuntu studio | [https://ubuntustudio.org/download/](https://ubuntustudio.org/download/)
-![6](xubuntu.png) | Xubuntu | [https://xubuntu.org/download/](https://xubuntu.org/download/)
+![1](imgs/kubuntu.png) | Kubuntu | [https://kubuntu.org/getkubuntu/](https://kubuntu.org/getkubuntu/)
+![2](imgs/lubuntu.png) | Lubuntu | [https://lubuntu.net/downloads/](https://lubuntu.net/downloads/)
+![3](imgs/ubuntubudgie.png) | ubuntu budgie | [https://ubuntubudgie.org/downloads](https://ubuntubudgie.org/downloads)
+![4](imgs/ubuntu%20kylin.png) | ubuntu kylin | [https://www.ubuntukylin.com/downloads/show.php?id=451&lang=en](https://www.ubuntukylin.com/downloads/show.php?id=451&lang=en)
+![4](imgs/ubuntumate.png) | ubuntu mate | [https://ubuntu-mate.org/download/](https://ubuntu-mate.org/download/)
+![5](imgs/ubuntustudio.png) | ubuntu studio | [https://ubuntustudio.org/download/](https://ubuntustudio.org/download/)
+![6](imgs/xubuntu.png) | Xubuntu | [https://xubuntu.org/download/](https://xubuntu.org/download/)
 
 Ubuntu also serves as a base for a large number of Linux distributions. Some people call those Linux distributions Ubuntu 
 distributions because they heavily rely on Ubuntu’s active development cycle. 
